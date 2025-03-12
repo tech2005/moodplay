@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: sans-serif;
 }
 /* Navbar Styling */
 .nav-item {
@@ -12,7 +13,7 @@
     text-decoration: underline; /* Underline effect */
 }
 .navbar {
-    background: linear-gradient(to right, rgb(30, 136, 222), rgb(233, 84, 84)); /* Use background instead of background-color */
+    background: linear-gradient(to right, rgb(55, 153, 232), rgb(165, 26, 240)); /* Use background instead of background-color */
     padding: 10px 0;
 }
 .navbar-brand {
